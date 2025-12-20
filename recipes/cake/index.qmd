@@ -1,6 +1,6 @@
 ---
 title: "Cake"
-description: "Une spécialité du Dabrion"
+description: "Classique rapide et très bon"
 image: Cake.jpeg
 ---
 

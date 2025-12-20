@@ -1,6 +1,6 @@
 ---
 title: "Pain"
-description: "Une spécialité du Dabrion"
+description: "Quand on a le temps"
 image: Pain.jpeg
 ---
 

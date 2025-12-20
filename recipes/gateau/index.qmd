@@ -1,6 +1,6 @@
 ---
 title: "Pizza"
-description: "Une spécialité du Dabrion"
+description: "Pour les anniversaires"
 image: pizza_1.jpeg
 ---
 

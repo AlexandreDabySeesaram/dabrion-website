@@ -1,6 +1,6 @@
 ---
 title: "Galette"
-description: "Une spécialité du Dabrion"
+description: "Pour les amoureux de la frangipane."
 image: Galette.jpeg
 ---
 

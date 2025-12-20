@@ -1,6 +1,6 @@
 ---
 title: "Lasagnes"
-description: "Une spécialité du Dabrion"
+description: "Plus traditionnelles, les lasagnes du dimanche soir ! "
 image: Lasagnes.jpeg
 ---
 

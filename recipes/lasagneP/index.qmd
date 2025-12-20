@@ -1,6 +1,6 @@
 ---
 title: "Lasagnes"
-description: "Une spécialité du Dabrion"
+description: "À cheval entre la compotée de poireaux et les carbonara, les lasagnes aux poireaux sont un 'must try'!"
 image: Lasagnes.jpeg
 ---
 

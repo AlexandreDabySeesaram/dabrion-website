@@ -1,6 +1,6 @@
 ---
 title: "Soupe aux champignons"
-description: "Une spécialité du Dabrion"
+description: "Pour se réchauffer en hiver."
 image: Champi.jpeg
 ---
 

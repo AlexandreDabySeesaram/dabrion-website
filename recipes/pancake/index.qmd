@@ -1,6 +1,6 @@
 ---
 title: "Pancake"
-description: "Une spécialité du Dabrion"
+description: "Pour un petit dej qui met de bonne humeur."
 image: Pancake.jpeg
 ---
 

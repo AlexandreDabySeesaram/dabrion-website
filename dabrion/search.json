@@ -4,7 +4,7 @@
     "href": "receipes_list.html",
     "title": "Nos Recettes",
     "section": "",
-    "text": "Pancake\n\n\nUne spécialité du Dabrion\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGalette\n\n\nUne spécialité du Dabrion\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPizza\n\n\nUne spécialité du Dabrion\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLasagnes\n\n\nUne spécialité du Dabrion\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSoupe aux champignons\n\n\nUne spécialité du Dabrion\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTortillas\n\n\nUne spécialité du Dabrion\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPâte feuilletée\n\n\nUne spécialité du Dabrion\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLasagnes\n\n\nUne spécialité du Dabrion\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPizza\n\n\nUne spécialité du Dabrion\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPizza végé\n\n\nUne spécialité du Dabrion\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCake\n\n\nUne spécialité du Dabrion\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPain\n\n\nUne spécialité du Dabrion\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Pancake\n\n\nPour un petit dej qui met de bonne humeur.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGalette\n\n\nPour les amoureux de la frangipane.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPizza\n\n\nPour les anniversaires\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLasagnes\n\n\nPlus traditionnelles, les lasagnes du dimanche soir !\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSoupe aux champignons\n\n\nPour se réchauffer en hiver.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTortillas\n\n\nClassique et efficace.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPâte feuilletée\n\n\nQuand on a vraiment le temps.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLasagnes\n\n\nÀ cheval entre la compotée de poireaux et les carbonara, les lasagnes aux poireaux sont un ‘must try’!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPizza\n\n\nUne spécialité du Dabrion\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPizza végé\n\n\nUne spécialité du Dabrion\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCake\n\n\nClassique rapide et très bon\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPain\n\n\nQuand on a le temps\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "recipes/cake/index.html",
@@ -53,14 +53,14 @@
     "href": "index.html",
     "title": "Dabrion",
     "section": "",
-    "text": "Bienvenue sur la page principale du Dabrion Home Server. Le serveur est hebergé sur une Raspberry tournant sous Ubuntu.\nCe serveur privé possède une capacité de stockage actuelle de 4 To en RAID 1."
+    "text": "Bienvenue sur la page principale du Dabrion Home Server. Le serveur est hebergé sur une Raspberry tournant sous Ubuntu 24.04 LTS.\nCe serveur privé possède une capacité de stockage actuelle de 4 To en RAID 1."
   },
   {
-    "objectID": "index.html#home-server-4t0",
-    "href": "index.html#home-server-4t0",
+    "objectID": "index.html#home-server-4to",
+    "href": "index.html#home-server-4to",
     "title": "Dabrion",
     "section": "",
-    "text": "Bienvenue sur la page principale du Dabrion Home Server. Le serveur est hebergé sur une Raspberry tournant sous Ubuntu.\nCe serveur privé possède une capacité de stockage actuelle de 4 To en RAID 1."
+    "text": "Bienvenue sur la page principale du Dabrion Home Server. Le serveur est hebergé sur une Raspberry tournant sous Ubuntu 24.04 LTS.\nCe serveur privé possède une capacité de stockage actuelle de 4 To en RAID 1."
   },
   {
     "objectID": "index.html#services",

@@ -1,6 +1,6 @@
 ---
 title: "Tortillas"
-description: "Une spécialité du Dabrion"
+description: "Classique et efficace."
 image: Tortillas.jpeg
 ---
 

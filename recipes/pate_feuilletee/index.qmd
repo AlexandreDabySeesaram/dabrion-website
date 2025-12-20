@@ -1,6 +1,6 @@
 ---
 title: "Pâte feuilletée"
-description: "Une spécialité du Dabrion"
+description: "Quand on a vraiment le temps."
 image: PateF.jpeg
 ---
 
