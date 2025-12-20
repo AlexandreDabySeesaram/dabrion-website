@@ -1,7 +1,34 @@
 ---
 title: "Dabrion"
+toc: false
+about:
+  template: marquee
+  image: Resources/background.jpg
+format:
+  html:
+    page-layout: full
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+
+
+:::::{.page_contente}
+:::{#hero-heading}
+
+
+# Home server 4T0
+
+Bienvenue sur la page principale du Dabrion Home Server. Le serveur est hebergé sur une Raspberry tournant sous Ubuntu.
+
+Ce serveur privé possède une capacité de stockage actuelle de 4 To en RAID 1.
+
+# Services
+
+## Cloud maison
+
+Stockage de fichiers en sécurité sous la télé accessible ici: [Dabrion's Cloud](marion-alexandre.freeboxos.fr)
+
+## Nos petites recettes
+
+ Les [recettes](recette.qmd) que nous avons testées et approuvées ! 
