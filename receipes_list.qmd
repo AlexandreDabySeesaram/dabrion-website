@@ -4,7 +4,7 @@ subtitle: "Dabrion Café"
 listing:
   contents: recipes          # Points to your folder of posts
   type: grid                 # Creates the card-style layout
-  sort: "date desc"          # Or "title"
+  sort: "grade desc"          # Or "title"
   grid-columns: 4            # Matches the 4-column layout in your image
   image-height: 250px        # Adjust to keep images uniform
   # fields: [image, title, description] # Display only these elements

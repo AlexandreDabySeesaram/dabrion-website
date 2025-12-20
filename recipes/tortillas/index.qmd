@@ -1,6 +1,7 @@
 ---
 title: "Tortillas"
 description: "Classique et efficace."
+grade: 8
 image: Tortillas.jpeg
 ---
 

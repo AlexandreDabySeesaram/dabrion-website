@@ -1,6 +1,7 @@
 ---
 title: "Lasagnes"
 description: "Plus traditionnelles, les lasagnes du dimanche soir ! "
+grade: 7
 image: Lasagnes.jpeg
 ---
 

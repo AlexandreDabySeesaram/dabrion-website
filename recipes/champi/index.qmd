@@ -1,6 +1,7 @@
 ---
 title: "Soupe aux champignons"
 description: "Pour se réchauffer en hiver."
+grade: 10
 image: Champi.jpeg
 ---
 

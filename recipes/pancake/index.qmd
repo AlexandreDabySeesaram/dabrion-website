@@ -1,6 +1,7 @@
 ---
 title: "Pancake"
 description: "Pour un petit dej qui met de bonne humeur."
+grade: 7
 image: Pancake.jpeg
 ---
 

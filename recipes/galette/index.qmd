@@ -1,6 +1,7 @@
 ---
 title: "Galette"
 description: "Pour les amoureux de la frangipane."
+grade: 7
 image: Galette.jpeg
 ---
 

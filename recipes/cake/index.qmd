@@ -1,6 +1,7 @@
 ---
 title: "Cake"
 description: "Classique rapide et très bon"
+grade: 10
 image: Cake.jpeg
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Pain"
 description: "Quand on a le temps"
+grade: 7
 image: Pain.jpeg
 ---
 

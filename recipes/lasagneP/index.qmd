@@ -1,6 +1,7 @@
 ---
 title: "Lasagnes"
 description: "À cheval entre la compotée de poireaux et les carbonara, les lasagnes aux poireaux sont un 'must try'!"
+grade: 9
 image: Lasagnes.jpeg
 ---
 
