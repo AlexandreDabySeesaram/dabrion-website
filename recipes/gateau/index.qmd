@@ -1,5 +1,5 @@
 ---
-title: "Pizza"
+title: "Gâteau"
 description: "Pour les anniversaires"
 grade: 8
 image: Gateau.jpeg

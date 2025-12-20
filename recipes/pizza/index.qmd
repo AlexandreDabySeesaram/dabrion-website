@@ -2,7 +2,7 @@
 title: "Pizza"
 description: "Une spécialité du Dabrion"
 grade: 9
-image: pizza_1.jpeg
+image: Pizza_1.jpeg
 ---
 
 
@@ -12,7 +12,7 @@ image: pizza_1.jpeg
 
 ::: {.column width="50%"}
 
-# ingrédients
+# ingrédients pour 2 pizzas
 
 * 330g de farine
 * 220g d'eau
