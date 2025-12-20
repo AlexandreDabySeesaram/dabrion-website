@@ -4,6 +4,10 @@ description: "Classique rapide et très bon"
 image: Cake.jpeg
 ---
 
+:::: {.columns}
+
+::: {.column width="50%"}
+
 # ingrédients
 
 * 150g de farine
@@ -21,3 +25,15 @@ image: Cake.jpeg
 * Ajouter le Compté 
 * Incorporer les tomates séchées coupées en petits morceaux 
 * Cuisson 1h15 
+
+:::
+
+::: {.column width="50%"}
+
+![](Cake.jpeg){width="70%" fig-align="right"}
+
+
+:::
+
+::::
+
