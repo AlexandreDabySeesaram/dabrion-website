@@ -1,0 +1,7 @@
+---
+title: "Pizza"
+description: "Une spécialité du Dabrion"
+image: pizza_1.jpeg
+---
+
+Full recipe content goes here...

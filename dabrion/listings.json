@@ -1,0 +1,18 @@
+[
+  {
+    "listing": "/receipes_list.html",
+    "items": [
+      "/recipes/pancake/index.html",
+      "/recipes/galette/index.html",
+      "/recipes/gateau/index.html",
+      "/recipes/lasagne/index.html",
+      "/recipes/champi/index.html",
+      "/recipes/tortillas/index.html",
+      "/recipes/pate_feuilletee/index.html",
+      "/recipes/pizza/index.html",
+      "/recipes/pizza_vg/index.html",
+      "/recipes/cake/index.html",
+      "/recipes/pain/index.html"
+    ]
+  }
+]

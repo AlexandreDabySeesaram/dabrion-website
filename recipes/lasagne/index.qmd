@@ -1,0 +1,7 @@
+---
+title: "Lasagnes"
+description: "Une spécialité du Dabrion"
+image: Lasagnes.jpeg
+---
+
+Full recipe content goes here...

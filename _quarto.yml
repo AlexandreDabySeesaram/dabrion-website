@@ -13,11 +13,9 @@ website:
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: 
+          light: [flatly,./styles.scss]
     css: styles.css
-    toc: true
-
+    toc: false
 
 

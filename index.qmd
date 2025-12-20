@@ -1,34 +1,56 @@
 ---
-title: "Dabrion"
+title: ""
 toc: false
 about:
   template: marquee
-  image: Resources/background.jpg
+#   image: Resources/Vinyl.JPG
 format:
   html:
     page-layout: full
 ---
 
 
+:::: {.columns}
 
+::: {.column width="45%"}
+![](Resources/background.jpg){width="80%" fig-align="left"}
+:::
 
+::: {.column width="55%"}
 
-:::::{.page_contente}
-:::{#hero-heading}
-
-
-# Home server 4T0
+## Home server 4T0
 
 Bienvenue sur la page principale du Dabrion Home Server. Le serveur est hebergé sur une Raspberry tournant sous Ubuntu.
 
 Ce serveur privé possède une capacité de stockage actuelle de 4 To en RAID 1.
 
-# Services
+:::
 
-## Cloud maison
+::::
+
+:::: {.columns}
+
+::: {.column width="55%"}
+
+## Services
+
+### Cloud maison
 
 Stockage de fichiers en sécurité sous la télé accessible ici: [Dabrion's Cloud](marion-alexandre.freeboxos.fr)
 
-## Nos petites recettes
+### Nos petites recettes
 
- Les [recettes](recette.qmd) que nous avons testées et approuvées ! 
+ Les [recettes](receipes_list.qmd) que nous avons testées et approuvées ! 
+
+:::
+
+::: {.column width="45%"}
+
+![](Resources/ServerImage.jpg){width="70%" fig-align="left"}
+
+:::
+
+::::
+
+
+
