@@ -1,5 +1,5 @@
 ---
-title: "Pizza végé"
+title: "Pizza légumes"
 description: "Une spécialité du Dabrion"
 grade: 9
 image: pizza_2.jpeg

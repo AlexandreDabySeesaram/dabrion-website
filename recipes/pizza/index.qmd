@@ -1,5 +1,5 @@
 ---
-title: "Pizza"
+title: "Pâte à pizza"
 description: "Une spécialité du Dabrion"
 grade: 9
 image: Pizza_1.jpeg
