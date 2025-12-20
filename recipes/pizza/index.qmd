@@ -2,7 +2,7 @@
 title: "Pâte à pizza"
 description: "Une spécialité du Dabrion"
 grade: 9
-image: Pizza_1.jpeg
+image: pizza_1.jpeg
 ---
 
 
@@ -34,7 +34,7 @@ image: Pizza_1.jpeg
 :::: {style='margin-top: 3em;'}
 ::::
 
-![](Pizza_1.jpeg){width="90%" fig-align="right"}
+![](pizza_1.jpeg){width="90%" fig-align="right"}
 
 :::
 
