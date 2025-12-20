@@ -6,7 +6,12 @@ project:
 
 website:
   title: "Dabrion"
-
+  navbar:
+    left:
+      - href: https://marion-alexandre.freeboxos.fr
+        text: Dabrion's cloud
+      - href: receipes_list.qmd
+        text: Recettes
 
 format:
   html:
