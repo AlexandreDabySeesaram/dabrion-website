@@ -4,4 +4,20 @@ description: "Une spécialité du Dabrion"
 image: Cake.jpeg
 ---
 
-Full recipe content goes here...
+# ingrédients
+
+* 150g de farine
+* 4 Oeufs 
+* 8cl d'huile 
+* 180g d'Olives 
+* 250g de tomate séchées 
+* 15cl de lait 
+* 1 Sachet de levure 
+
+# Instructions
+
+* Four à 180 degrés Celsius 
+* Farine puis levure, oeufs, huile & lait, mélanger. 
+* Ajouter le Compté 
+* Incorporer les tomates séchées coupées en petits morceaux 
+* Cuisson 1h15 

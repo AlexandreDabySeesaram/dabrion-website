@@ -4,4 +4,21 @@ description: "Une spécialité du Dabrion"
 image: pizza_1.jpeg
 ---
 
-Full recipe content goes here...
+# ingrédients
+
+* 4 œufs 
+* 50g farine 
+* 150 g beurre 
+* 200g sucre poudre 
+* 200g chocolat noir (une tablette entière) 
+
+# Instructions
+
+* Préchauffer le four à 150°C (thermostat 3) 
+* Faire fondre le beurre et le chocolat au micro-onde ou au bain-marie. 
+* Mélanger le beurre fondue avec le chocolat fondu ainsi que la farine et le sucre. 
+* Séparer le blanc des jaunes et ajouter les jaunes au mélange. 
+* Monter les blancs en neige et les incorporer au mélange. 
+* Beurrer le moule et y verser le mélange. 
+* Enfourner pendant 30 minutes. 
+* Démouler le gâteau lorsqu'il est tiède. 

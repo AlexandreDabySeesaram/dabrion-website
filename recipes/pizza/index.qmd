@@ -4,4 +4,17 @@ description: "Une spécialité du Dabrion"
 image: pizza_1.jpeg
 ---
 
-Full recipe content goes here...
+# ingrédients
+
+* 330g de farine
+* 220g d'eau
+* 10g de sel
+* Levure de boulanger
+
+# Instructions
+
+* Dans de l'eau tiède hydrater les levures 10 minutes (jusqu'à la formation de bulles). 
+* Mélanger le sel avec la farine. 
+* Ajouter une cuillère à soupe d'huile puis l'eau et la levure. Pétrire pendant 15 minutes. 
+* Laisser reposer 1h couvert. 
+* Faire 2 pâtons, les laisser reposer couverts 3h minimum. 
