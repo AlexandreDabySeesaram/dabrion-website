@@ -5,6 +5,13 @@ grade: 9
 image: Lasagnes.jpeg
 ---
 
+
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
 # ingrédients
 
 * 3 poireaux 
@@ -25,3 +32,16 @@ image: Lasagnes.jpeg
 * FMonter les lasagnes.
 * Verser le concassé de tomates sur la dernière couche et ajouter le parmesan.
 * Enfourner 25 min à 210 degrés Celsius
+
+:::
+
+::: {.column width="50%"}
+
+:::: {style='margin-top: 3em;'}
+::::
+
+![](Lasagnes.jpeg){width="90%" fig-align="right"}
+
+:::
+
+::::

@@ -5,4 +5,19 @@ grade: 10
 image: Champi.jpeg
 ---
 
-Full recipe content goes here...
+:::: {.columns}
+
+::: {.column width="50%"}
+Left column
+:::
+
+::: {.column width="50%"}
+
+:::: {style='margin-top: 3em;'}
+::::
+
+![](Champi.jpeg){width="90%" fig-align="right"}
+
+:::
+
+::::

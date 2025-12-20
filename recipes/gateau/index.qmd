@@ -23,3 +23,20 @@ image: pizza_1.jpeg
 * Beurrer le moule et y verser le mélange. 
 * Enfourner pendant 30 minutes. 
 * Démouler le gâteau lorsqu'il est tiède. 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+Left column
+:::
+
+::: {.column width="50%"}
+
+:::: {style='margin-top: 3em;'}
+::::
+
+![](Gateau.jpeg){width="90%" fig-align="right"}
+
+:::
+
+::::

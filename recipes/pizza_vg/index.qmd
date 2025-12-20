@@ -5,6 +5,11 @@ grade: 9
 image: pizza_2.jpeg
 ---
 
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
 # ingrédients
 
 * 330g de farine
@@ -19,3 +24,16 @@ image: pizza_2.jpeg
 * Ajouter une cuillère à soupe d'huile puis l'eau et la levure. Pétrire pendant 15 minutes. 
 * Laisser reposer 1h couvert. 
 * Faire 2 pâtons, les laisser reposer couverts 3h minimum. 
+
+:::
+
+::: {.column width="50%"}
+
+:::: {style='margin-top: 3em;'}
+::::
+
+![](Pizza_2.jpeg){width="90%" fig-align="right"}
+
+:::
+
+::::
