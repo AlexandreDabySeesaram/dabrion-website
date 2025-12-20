@@ -30,7 +30,10 @@ image: Cake.jpeg
 
 ::: {.column width="50%"}
 
-![](Cake.jpeg){width="70%" fig-align="right"}
+:::: {style='margin-top: 3em;'}
+::::
+
+![](Cake.jpeg){width="90%" fig-align="right"}
 
 
 :::
