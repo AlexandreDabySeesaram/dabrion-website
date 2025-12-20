@@ -16,7 +16,7 @@ Left column
 :::: {style='margin-top: 3em;'}
 ::::
 
-![](Lasagnes.jpeg.jpeg){width="90%" fig-align="right"}
+![](Lasagnes.jpeg){width="90%" fig-align="right"}
 
 :::
 

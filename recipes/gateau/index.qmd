@@ -2,7 +2,7 @@
 title: "Pizza"
 description: "Pour les anniversaires"
 grade: 8
-image: pizza_1.jpeg
+image: Gateau.jpeg
 ---
 
 # ingrédients
