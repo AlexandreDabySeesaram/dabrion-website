@@ -5,6 +5,12 @@ grade: 8
 image: Gateau.jpeg
 ---
 
+
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
 # ingrédients
 
 * 4 œufs 
@@ -24,10 +30,6 @@ image: Gateau.jpeg
 * Enfourner pendant 30 minutes. 
 * Démouler le gâteau lorsqu'il est tiède. 
 
-:::: {.columns}
-
-::: {.column width="50%"}
-Left column
 :::
 
 ::: {.column width="50%"}
