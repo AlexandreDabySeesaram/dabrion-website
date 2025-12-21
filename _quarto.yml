@@ -6,6 +6,7 @@ project:
 
 website:
   title: "Dabrion"
+  favicon: Resources/dabrion_server.svg
   navbar:
     left:
       - href: https://marion-alexandre.freeboxos.fr
