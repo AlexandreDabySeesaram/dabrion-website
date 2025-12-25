@@ -63,11 +63,11 @@
     "text": "Bienvenue sur la page principale du Dabrion Home Server. Le serveur est hébergé sur une Raspberry tournant sous Ubuntu 24.04 LTS.\nCe serveur privé possède une capacité de stockage actuelle de 4 To en RAID 1."
   },
   {
-    "objectID": "index.html#services",
-    "href": "index.html#services",
+    "objectID": "index.html#our-services",
+    "href": "index.html#our-services",
     "title": "Dabrion",
-    "section": "Services",
-    "text": "Services\n\nCloud maison\nStockage de fichiers en sécurité sous la télé accessible ici: Dabrion’s Cloud\n\n\nNos petites recettes\nLes recettes que nous avons testées et approuvées !"
+    "section": "Our services",
+    "text": "Our services\n\nCloud maison\nStockage de fichiers en sécurité sous la télé accessible ici: Dabrion’s Cloud\n\n\nNos petites recettes\nLes recettes que nous avons testées et approuvées !"
   },
   {
     "objectID": "recipes/galette/index.html",

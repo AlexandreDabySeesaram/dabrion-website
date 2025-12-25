@@ -32,7 +32,7 @@ Ce serveur privé possède une capacité de stockage actuelle de 4 To en RAID 1.
 
 ::: {.column width="55%"}
 
-## Services
+## Our services
 
 ### Cloud maison
 
