@@ -9,7 +9,7 @@ image: Cake.jpeg
 
 ::: {.column width="50%"}
 
-# ingrédients
+# Ingrédients
 
 * 150g de farine
 * 4 Oeufs 
