@@ -9,7 +9,7 @@ website:
   favicon: Resources/dabrion_server.svg
   navbar:
     left:
-      - href: https://marion-alexandre.freeboxos.fr
+      - href: https://cloud.dabrion.eu
         text: Dabrion's cloud
       - href: receipes_list.qmd
         text: Recettes
