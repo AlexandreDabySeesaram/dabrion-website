@@ -42,6 +42,14 @@ Stockage de fichiers en sécurité sous la télé accessible ici: [Dabrion's Clo
 
  Les [recettes](receipes_list.qmd) que nous avons testées et approuvées ! 
 
+### VPN
+
+A wireguard vpn for use on not-so-private wifi (TGV, Hotels, etc.)
+
+### Vaultwarden
+
+A locally hosted password manager
+
 :::
 
 ::: {.column width="45%"}
