@@ -53,7 +53,7 @@
     "href": "index.html",
     "title": "Dabrion",
     "section": "",
-    "text": "Bienvenue sur la page principale du Dabrion Home Server. Le serveur est hébergé sur une Raspberry tournant sous Ubuntu-server 24.04 LTS.\nCe serveur privé possède une capacité de stockage actuelle de 4 To en RAID 1 (synchronisé avec un serveur de secours hébergé sur une Raspberry tournant sous debian Bullseye)."
+    "text": "Bienvenue sur la page principale du Dabrion Home Server. Le serveur est hébergé sur une Raspberry tournant sous Ubuntu-server 24.04 LTS.\nCe serveur privé possède une capacité de stockage actuelle de 4 To en RAID 1 (synchronisé avec un serveur de secours hébergé sur une Raspberry tournant sous debian Bullseye).\nMaintained by Alexandre"
   },
   {
     "objectID": "index.html#home-server-4to",
