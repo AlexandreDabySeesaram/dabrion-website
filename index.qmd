@@ -22,7 +22,7 @@ format:
 
 Bienvenue sur la page principale du Dabrion Home Server. Le serveur est hébergé sur une Raspberry tournant sous Ubuntu-server 24.04 LTS.
 
-Ce serveur privé possède une capacité de stockage actuelle de 4 To en RAID 1 [(synchronisé avec un serveur de secour hébergé sur une Raspberry tournant sous debian Bullseye)]{.light}.
+Ce serveur privé possède une capacité de stockage actuelle de 4 To en RAID 1 [(synchronisé avec un serveur de secours hébergé sur une Raspberry tournant sous debian Bullseye)]{.light}.
 
 :::
 
