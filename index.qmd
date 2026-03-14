@@ -50,6 +50,10 @@ A wireguard vpn for use on not-so-private wifi (TGV, Hotels, etc.)
 
 A locally hosted password manager
 
+### AudioBookShelf
+
+A locally hosted eBooks and Audiobooks library 
+
 :::
 
 ::: {.column width="45%"}
