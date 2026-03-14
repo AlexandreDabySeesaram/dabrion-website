@@ -22,7 +22,7 @@ format:
 
 Bienvenue sur la page principale du Dabrion Home Server. Le serveur est hébergé sur un un serveur tournant sous Debian 13.3 (Trixie).
 
-Ce serveur privé possède une capacité de stockage actuelle de 4 To en zfs miroir (RAID 1) [(synchronisé avec deux serveurs de secours hébergé sur une Raspberry tournants sous Ubuntu 24.04 LTS et debian Bullseye respectivement)]{.light}.
+Ce serveur privé possède une capacité de stockage actuelle de 4 To en zfs miroir (RAID 1) [(synchronisé avec deux serveurs de secours hébergés sur une Raspberry tournants sous Ubuntu 24.04 LTS et debian Bullseye respectivement)]{.light}.
 
 :::
 

@@ -53,14 +53,14 @@
     "href": "index.html",
     "title": "Dabrion",
     "section": "",
-    "text": "Bienvenue sur la page principale du Dabrion Home Server. Le serveur est hébergé sur un un serveur tournant sous Debian 13.3 (Trixie).\nCe serveur privé possède une capacité de stockage actuelle de 4 To en zfs miroir (RAID 1) (synchronisé avec deux serveurs de secours hébergé sur une Raspberry tournants sous Ubuntu 24.04 LTS et debian Bullseye respectivement).\nMaintained by Alexandre"
+    "text": "Bienvenue sur la page principale du Dabrion Home Server. Le serveur est hébergé sur un un serveur tournant sous Debian 13.3 (Trixie).\nCe serveur privé possède une capacité de stockage actuelle de 4 To en zfs miroir (RAID 1) (synchronisé avec deux serveurs de secours hébergés sur une Raspberry tournants sous Ubuntu 24.04 LTS et debian Bullseye respectivement).\nMaintained by Alexandre"
   },
   {
     "objectID": "index.html#home-server-4to",
     "href": "index.html#home-server-4to",
     "title": "Dabrion",
     "section": "",
-    "text": "Bienvenue sur la page principale du Dabrion Home Server. Le serveur est hébergé sur un un serveur tournant sous Debian 13.3 (Trixie).\nCe serveur privé possède une capacité de stockage actuelle de 4 To en zfs miroir (RAID 1) (synchronisé avec deux serveurs de secours hébergé sur une Raspberry tournants sous Ubuntu 24.04 LTS et debian Bullseye respectivement)."
+    "text": "Bienvenue sur la page principale du Dabrion Home Server. Le serveur est hébergé sur un un serveur tournant sous Debian 13.3 (Trixie).\nCe serveur privé possède une capacité de stockage actuelle de 4 To en zfs miroir (RAID 1) (synchronisé avec deux serveurs de secours hébergés sur une Raspberry tournants sous Ubuntu 24.04 LTS et debian Bullseye respectivement)."
   },
   {
     "objectID": "index.html#our-services",
