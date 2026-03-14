@@ -67,7 +67,7 @@
     "href": "index.html#our-services",
     "title": "Dabrion",
     "section": "Our services",
-    "text": "Our services\n\nCloud maison\nStockage de fichiers en sécurité sous la télé accessible ici: Dabrion’s Cloud\n\n\nNos petites recettes\nLes recettes que nous avons testées et approuvées !\n\n\nVPN\nA wireguard vpn for use on not-so-private wifi (TGV, Hotels, etc.)\n\n\nVaultwarden\nA locally hosted password manager"
+    "text": "Our services\n\nCloud maison\nStockage de fichiers en sécurité sous la télé accessible ici: Dabrion’s Cloud\n\n\nNos petites recettes\nLes recettes que nous avons testées et approuvées !\n\n\nVPN\nA wireguard vpn for use on not-so-private wifi (TGV, Hotels, etc.)\n\n\nVaultwarden\nA locally hosted password manager\n\n\nAudioBookShelf\nA locally hosted eBooks and Audiobooks library"
   },
   {
     "objectID": "recipes/galette/index.html",
